@@ -1,0 +1,3 @@
+# Dynamic-Web-Page
+This project is created by using HTML5, CSS, and JavaScript code to implement a dynamic web site. If a title is clicked, the webpage figure will be changed. For example, if you click the “home” title, a figure with “Escape” and “explore nature” will appear. If a title “explore” title is clicked, the main menu webpage with “Jungle”, “Mountains”, “Desert” and other titles will appear. If you click any other title, the corresponding figure will appear. The scene images are put in the folder “img”, which has been uploaded in project2 on Blackboard. You need to use those scene images in your code.
+
